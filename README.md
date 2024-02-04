@@ -1,8 +1,22 @@
-# Getting Started with Create React App
+## Neste exercício você deverá:
+
+### 1) Utilizar o Styled Components para converter a estilização do projeto disponibilizado no Material de apoio para uma estilização utilizando o Styled Components. <br />
+Estilizar:
+
+-formulário <br/>
+-cabeçalho <br />
+-hero  <br />
+-componente "Vaga" <br />
+-componente "ListaVagas" <br />
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
